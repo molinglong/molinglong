@@ -4,10 +4,10 @@
 
 **在做的事**
 
-- **[aichatt](https://github.com/molinglong/nowaichat)** — 全栈 AI 学习助手：多模型、长期记忆、教学模式、错题本与 FSRS 复习
+- **[aichatt](https://github.com/molinglong/aichatt)** — 全栈 AI 学习助手：多模型、长期记忆、教学模式、错题本与 FSRS 复习
 - **[Folia Pro](https://github.com/molinglong/folia-pro)** — Folia 的本地魔改分支：沉浸式歌词音乐播放器
-- **[English Word Share](https://github.com/molinglong/eglish)** — 英语单词学习应用：词书、发音、分享库
-- **[Finance Planner](https://github.com/molinglong/-)** — 个人财务规划助手（含冷静期应用锁）
+- **[English Word Share](https://github.com/molinglong/english)** — 英语单词学习应用：词书、发音、分享库
+- **[Finance Planner](https://github.com/molinglong/finance-planner)** — 个人财务规划助手（含冷静期应用锁）
 
 **技术栈**
 
